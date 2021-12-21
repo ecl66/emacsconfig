@@ -130,4 +130,4 @@
  '(mode-line-inactive ((t (:foreground "White" :background "DarkGreen" :box nil)))))
 
 (global-set-key (kbd "C-f") 'indent-region)
-
+(global-set-key (kbd "C-g") 'goto-line)
